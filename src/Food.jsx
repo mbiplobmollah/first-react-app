@@ -4,3 +4,5 @@ export default function Food({eat}){
         <li>I am eating: {eat}</li>
     )
 }
+
+
